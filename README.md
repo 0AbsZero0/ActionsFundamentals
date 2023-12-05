@@ -87,6 +87,15 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - steps can be shell command or action
 - sequence in a job runs in the same process/directory, runs in shell
 
+### Types of Actions
+- Container; Dockerfile or existing image, inputs
+- JavaScript/Typescript (unsupported)
+- Composite
+
+### Try
+- Super-Linter by GitHub for source code validation
+- Checkout for branch navigation
+
 ### Day 2
 - [ ] Introduction
 - [ ] Actions for CI/CD
