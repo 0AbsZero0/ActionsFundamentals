@@ -95,6 +95,8 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 ### Try
 - Super-Linter by GitHub for source code validation
 - Checkout for branch navigation
+- CTRL + SPACE for intellisense
+- OPTION + SPACE for Mac
 
 ### Day 2
 - [ ] Introduction
