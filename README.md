@@ -97,6 +97,9 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - Checkout for branch navigation
 - CTRL + SPACE for intellisense
 - OPTION + SPACE for Mac
+- https://github.com/actions/toolkit
+- https://docs.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace
+- [Suleiman Suleiman](ssuleiman@microsoft.com)
 
 ### Day 2
 - [ ] Introduction
