@@ -40,6 +40,40 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] Using the GitHub API and Octokit
 - [ ] Job descriptions
 
+### GitHub Actions Fundamentals
+- Source Control software
+- leverage the power of the open-source commmunity
+- flexible platform
+- CI/CD pipeline accessibility, workflow flexibility
+- Actions in GitHub Marketplace from Verified Creators (blue badge partners) versus individuals
+- can be Referenced in Workflow directly
+- Integration in GitHub editor
+- can control what type of Actions, creators from the Marketplace
+- [GitHub Marketplace](https://github.com/marketplace?type=actions)
+- automate with workflows with generic workflow engine
+- 35 events can trigger a workflow
+
+### The YAML syntax
+- .yml or .yaml
+- strict superset of JSON
+- syntactically relevant newlines and indentation instead of braces
+- data-serialized writeable/reable language
+- "#" for comments
+- key-value pairs
+- do not need quotations for spaces
+- literal_block is 4 spaces of indentation which keeps line breaks and empty lines until next element
+- JSON syntax
+- Sequence and array
+- Maps use 2 spaces of indentation
+
+### Basic Workflow Syntax
+- text file in repository [GitHub Workflows](.github/workflows)
+- YAML: "Yet Another Markup Language"
+- Events trigger workflows (on:), web-based
+- jobs
+- execute runners
+- contains steps, a reuseable step is an Action
+
 ### Day 2
 - [ ] Introduction
 - [ ] Actions for CI/CD
