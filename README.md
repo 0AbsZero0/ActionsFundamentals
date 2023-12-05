@@ -74,6 +74,19 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - execute runners
 - contains steps, a reuseable step is an Action
 
+### Events that Trigger Workflow
+- webhook, scheduled, manual events
+- cron syntax for schedule
+- repository dispatch event, allows a repository to webhook into another repository where the event is held; done through GitHub CLI, curl, octokit, etc., needs to autheticate
+
+### Jobs and Steps
+- map is runned in parallel by default
+- can be chained using keyword
+- runs on runner in process
+- contains sequence of steps
+- steps can be shell command or action
+- sequence in a job runs in the same process/directory, runs in shell
+
 ### Day 2
 - [ ] Introduction
 - [ ] Actions for CI/CD
