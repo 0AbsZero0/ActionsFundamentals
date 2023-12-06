@@ -115,6 +115,9 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] 🔨 Hands-on: [Reusable workflows](hol/04-Reusable-workflows.md)
 - [ ] Best practices and security
 
+### Actions for CI/CD
+- [Actions: Continuous Integration](https://lab.github.com/githubtraining/github-actions:-continuous-integration)
+- [Super Linter](https://github.com/github/super-linter)
 
 ## ⚡ Prerequisites
 
