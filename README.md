@@ -23,17 +23,17 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 ### Day 1: 🚀 Getting started
 
 - [ ] Introduction and Icebreaker
-- [ ] GitHub Actions Fundamentals
-- [ ] The YAML syntax
-- [ ] Basic workflow syntax
-- [ ] Events that trigger workflow
-- [ ] Jobs and steps
+- [ ] [GitHub Actions Fundamentals][#GitHub-Actions-Fundamentals]
+- [ ] [The YAML syntax](#The-YAML-Syntax)
+- [ ] [Basic workflow syntax](#Basic-Workflow-Syntax)
+- [ ] [Events that trigger workflow](#Events-that-Trigger-Workflow)
+- [ ] [Jobs and steps](#Jobs-and-Steps)
 - [ ] :mag: Demo: Creating a workflow
 - [ ] 🔨 Hands-on: [My first Action workflow](hol/01-My-first-workflow.md)
 - [ ] Advanced [workflow syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 - [ ] :coffee: Break
 - [ ] GitHub Actions
-- [ ] Types of Actions
+- [ ] [Types of Actions](#Types-of-Actions)
 - [ ] 🔨 Hands-on: [My first container Action](hol/02-My-first-action.md)
 - [ ] Typescript and composite actions
 - [ ] Sharing and releasing actions
@@ -53,7 +53,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - automate with workflows with generic workflow engine
 - 35 events can trigger a workflow
 
-### The YAML syntax
+### The YAML Syntax
 - .yml or .yaml
 - strict superset of JSON
 - syntactically relevant newlines and indentation instead of braces
