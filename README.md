@@ -126,6 +126,12 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ### Staged Deployments
 - [Staged Deployment](https://github.com/ps-actions-sandbox/ActionsFundamentals/blob/main/hol/03-Staged-deployments.md)
+- CI/CD: continuous integration and continuous delivery/continuous deployment
+
+### Runners
+- [GitHub Hosted Runners](https://docs.github.com/en/actions/using-github-hosted-runners)
+- [Hosting own Runners](https://docs.github.com/en/actions/hosting-your-own-runners)
+- [Runner Images](https://github.com/actions/runner-images)
 
 ## ⚡ Prerequisites
 
