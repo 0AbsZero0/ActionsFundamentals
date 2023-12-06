@@ -22,8 +22,8 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ### Day 1: 🚀 Getting started
 
-- [ ] Introduction and Icebreaker
-- [ ] [GitHub Actions Fundamentals][#GitHub-Actions-Fundamentals]
+- [ ] [Introduction](#Introduction) and Icebreaker
+- [ ] GitHub Actions Fundamentals
 - [ ] [The YAML syntax](#The-YAML-Syntax)
 - [ ] [Basic workflow syntax](#Basic-Workflow-Syntax)
 - [ ] [Events that trigger workflow](#Events-that-Trigger-Workflow)
@@ -40,7 +40,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] Using the GitHub API and Octokit
 - [ ] Job descriptions
 
-### GitHub Actions Fundamentals
+### Introduction
 - Source Control software
 - leverage the power of the open-source commmunity
 - flexible platform
