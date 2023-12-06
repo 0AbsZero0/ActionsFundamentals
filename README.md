@@ -103,10 +103,10 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ### Day 2
 - [ ] Introduction
-- [ ] Actions for CI/CD
+- [ ] [Actions for CI/CD](#Actions-for-CI/CD)
 - [ ] Permissions for GitHub Token
 - [ ] [Environments and Secrets](#Environments-and-Secrets)
-- [ ] Staged deployments with environments, approvals, and deployment gates
+- [ ] [Staged deployments](#Staged-Deployments) with environments, approvals, and deployment gates
 - [ ] 🔨 Hands-on: [Staged deployments](hol/03-Staged-deployments.md)
 - [ ] :coffee: Break
 - [ ] Action policies
@@ -124,7 +124,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [Environments Jobs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idenvironment)
 - [Rest API](https://docs.github.com/en/rest/deployments/deployments?apiVersion=2022-11-28)
 
-### Staged deployments with environments, approvals, and deployment gates
+### Staged Deployments
 - [Staged Deployment](https://github.com/ps-actions-sandbox/ActionsFundamentals/blob/main/hol/03-Staged-deployments.md)
 
 ## ⚡ Prerequisites
