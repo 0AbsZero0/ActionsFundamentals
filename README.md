@@ -105,7 +105,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] Introduction
 - [ ] Actions for CI/CD
 - [ ] Permissions for GitHub Token
-- [ ] Environments and Secrets
+- [ ] [Environments and Secrets](#Environments-and-Secrets)
 - [ ] Staged deployments with environments, approvals, and deployment gates
 - [ ] 🔨 Hands-on: [Staged deployments](hol/03-Staged-deployments.md)
 - [ ] :coffee: Break
@@ -118,6 +118,14 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 ### Actions for CI/CD
 - [Actions: Continuous Integration](https://lab.github.com/githubtraining/github-actions:-continuous-integration)
 - [Super Linter](https://github.com/github/super-linter)
+
+### Environments and Secrets
+- [Environments](https://docs.github.com/en/actions/deployment/targeting-different-environments/using-environments-for-deployment)
+- [Environments Jobs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idenvironment)
+- [Rest API](https://docs.github.com/en/rest/deployments/deployments?apiVersion=2022-11-28)
+
+### Staged deployments with environments, approvals, and deployment gates
+- [Staged Deployment](https://github.com/ps-actions-sandbox/ActionsFundamentals/blob/main/hol/03-Staged-deployments.md)
 
 ## ⚡ Prerequisites
 
