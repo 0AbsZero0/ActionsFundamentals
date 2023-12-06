@@ -132,6 +132,8 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [GitHub Hosted Runners](https://docs.github.com/en/actions/using-github-hosted-runners)
 - [Hosting own Runners](https://docs.github.com/en/actions/hosting-your-own-runners)
 - [Runner Images](https://github.com/actions/runner-images)
+- [Awesome Runners](https://github.com/jonico/awesome-runners)
+- be careful when hosting own Runners to not have it accessible to the public
 
 ## ⚡ Prerequisites
 
