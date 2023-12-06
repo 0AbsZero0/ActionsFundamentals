@@ -134,6 +134,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [Runner Images](https://github.com/actions/runner-images)
 - [Awesome Runners](https://github.com/jonico/awesome-runners)
 - be careful when hosting own Runners to not have it accessible to the public
+- Runner: the machines that execute jobs in a GitHub Actions workflow
 
 ## ⚡ Prerequisites
 
